@@ -1,0 +1,35 @@
+<html>
+
+<head>
+   <title>Racing Bikes</title>
+    <link href="Styles.css" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Agbalumo&family=Pacifico&family=Rye&family=UnifrakturCook:wght@700&display=swap" rel="stylesheet">
+    </head>
+
+<body>
+    <div class="bgdark"><h1>Racing Bikes</h1></div>
+    <img src="simon-breau-jBQzKYJc41Y-unsplash.jpg" width="500px">
+    <h2>Inspired by Bradley Wiggens, Chris Hoy, Chris Froome or Mark Cavendish? Then this is the bike for you. Training on this bike will just be the start you need to decide whether the Tour de France is your next big goal. Our racing bikes come in all sizes and prices starting from £ 399.
+ 
+</h2>
+    <br>
+    <img src="RacingBike.jpg" width=500>
+    <br>
+    <div class="bgdark"><h3>Watch a Bike race</h3></div>
+    <iframe width="367" height="652" src="https://www.youtube.com/embed/APuCQQCBYnM" title="Bike Racing, You Can’t Beat It! #shorts #cycling #bicycling" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    
+    
+<br>
+    <br>
+   <div class="bgdark">
+   <a href="index.html">Home Page</a>
+    </div>
+    
+    
+    </body>
+
+
+
+</html>

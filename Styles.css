@@ -1,0 +1,58 @@
+body{
+    background-color:cornflowerblue;
+    text-align: center;
+}
+
+
+.bgdark{
+    background-color:steelblue
+}
+
+a{
+    color:cornsilk;
+    font-size: 25
+    
+}
+
+a:hover{
+    color:goldenrod;
+}
+
+h1{
+  font-family: "UnifrakturCook", cursive;
+  font-weight: 700;
+  font-style: normal;
+    font-size: 60;
+    color:goldenrod;
+        
+}
+
+h2 {
+  font-family: "Agbalumo", system-ui;
+  font-weight: 400;
+  font-style: normal;
+    color:azure;
+}
+
+h3 {
+  font-family: "Agbalumo", system-ui;
+  font-weight: 400;
+  font-style: normal;
+    color:azure;
+}
+
+a{
+  font-family: "Rye", serif;
+  font-weight: 400;
+  font-style: normal;
+    color:azure
+}
+screen and (max-width: 992px) {
+  { 
+    background-color: blue;
+    color: white;
+  }
+}
+
+
+
